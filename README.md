@@ -2,7 +2,7 @@
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://github.com/alejandroariasag/csb-gfoos/blob/gh-pages/images/screenshot.png?raw=true)
 
 ## Table of contents
 
@@ -21,6 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
+- GitHub URL: https://github.com/alejandroariasag/csb-gfoos/
 - Live Site URL: https://alejandroariasag.github.io/csb-gfoos/
 
 ## My process
@@ -34,4 +35,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - Unders construction
+- Website - https://thequiffrepublic.com
